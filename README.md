@@ -118,4 +118,4 @@ volumes:
 os arquivos vão ficar em:
  - ./garage-data
 
-#### 🔗  Container do Garage: https://github.com/Douglas4J/object-storage-container
+#### 🔗  Container do Garage: https://github.com/d0uglas77p/object-storage-container
